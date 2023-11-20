@@ -9,7 +9,7 @@ body {
     margin-bottom: 10px;
 }
 
-.highlight {
+#text.highlight {
     background-color: yellow;
 }
 .e1_2 { 
