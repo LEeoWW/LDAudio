@@ -1,0 +1,311 @@
+.image {
+    margin-bottom: 20px; /* 调整图片和文字之间的间距 */
+}
+
+   
+.e19_26 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:auto;
+	height:auto;
+}
+
+#audio {
+    position: relative;
+    left: 50%;
+    top:200px;
+    transform: translateX(-50%);
+}
+
+
+
+
+.e19_30 { 
+	width:1920px;
+	height:400px;
+	position:absolute;
+	left:0px;
+	top:-17px;
+    background-position: center bottom;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/pexels-jose-d´alessandro-9510830.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e19_27 { 
+	background-color:rgba(106.12607851624489, 179.9886354804039, 117.94409796595573, 0.3700000047683716);
+	width:1920px;
+	height:300px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e19_28 { 
+	color:rgba(255, 255, 255, 1);
+	width:753px;
+	height:45px;
+    position:absolute;
+	left:621px;
+	top:47px;
+	font-family:Italiana;
+	text-align:center;
+	font-size:128px;
+	letter-spacing:0;
+}
+.e19_31 { 
+	width:1920px;
+	height:1515px;
+	position:absolute;
+	left:0px;
+	top:329px;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/pexels-brainduction-14419185.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e19_32 { 
+	background-color:rgba(106.12607851624489, 179.9886354804039, 117.94409796595573, 0.3700000047683716);
+	width:1920px;
+	height:657px;
+	position:absolute;
+	left:0px;
+	top:1101px;
+}
+.e19_33 { 
+	background-color:rgba(106.12607851624489, 179.9886354804039, 117.94409796595573, 0.3700000047683716);
+	width:1920px;
+	height:657px;
+	position:absolute;
+	left:0px;
+	top:272px;
+}
+.e19_35 { 
+	background-color:rgba(196.69896841049194, 230.4573753476143, 210.20242542028427, 1);
+	width:1920px;
+	height:55px;
+	position:absolute;
+	left:0px;
+	top:284px;
+}
+.e19_36 { 
+	color:rgba(0, 0, 0, 1);
+	width:575px;
+	height:632px;
+	position:absolute;
+	left:183px;
+	top:416px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e19_39 { 
+	color:rgba(0, 0, 0, 1);
+	width:575px;
+	height:632px;
+	position:absolute;
+	left:183px;
+	top:1233px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e19_37 { 
+	border-radius:500px;
+	width:630px;
+	height:581px;
+	position:absolute;
+	left:949px;
+	top:352px;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/umbracle-descubre.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#umbracle1{
+    display: none;
+    position: relative;
+    top: 670px;
+    width: 300px;
+    height: 250px;
+    border-radius:500px;
+}
+
+#umbracle2{
+    display: none;
+    position: relative;
+    top: 1470px;
+    width: 300px;
+    height: 250px;
+    border-radius:500px;
+}
+
+
+
+
+.e19_41 { 
+	border-radius:500px;
+	width:630px;
+	height:582px;
+	position:absolute;
+	left:949px;
+	top:1147px;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/Umbracle-nuevo.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+@media screen and (max-width: 600px) {
+    
+
+    .e19_27 {
+        width: 100vw;
+    }
+    .e19_28 {
+        width:100%;
+        height:100%;
+        left:unset;
+        font-size: 400%;
+   }
+   .e19_30{
+    width: 100vw;
+    height: 70vw;
+   }
+   .e19_31,.e19_33,.e19_32,.e19_35{
+    width: 100vw;
+   }
+   .e19_36,.e19_39{
+    width: 100vw;
+    font-size: 95%;
+    left: 0%;
+   }
+.e19_37,.e19_41{
+    width: 100vw;
+    display: none;
+}
+
+   #volver{
+    display: block;
+   }
+
+
+
+   #umbracle1,#umbracle2{
+    display: inline;
+    z-index: 9999;
+    position: absolute;
+   }
+
+  
+  
+
+    /*.e19_26, .e19_30, .e19_27 {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    .e19_28 {
+        width: 100%;
+        font-size: 24px;
+        text-align: center;
+        left: 0;
+        top: 0;
+    }
+    */
+    /* top: 50%;
+         left: 50%;
+         transform: translate(-50%, -50%);*/
+    
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    top:220px
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #64FF74;
+}
+
+
+
+
+
+
+
+ul {
+    position: relative;
+    top: 220px;
+    z-index: 99999;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+#scrollToTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #29df22;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#scrollToTopBtn:hover {
+    background-color: #93ff72;
+} 
