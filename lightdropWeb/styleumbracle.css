@@ -130,7 +130,7 @@
 
 .text1{/*36,39*/
     left:183px;
-	top:460px;
+	top:450px;
     font-size: 30px;
     font-style: italic;
     
@@ -224,7 +224,7 @@
     width: 100vw;
    }
    .text1{
-    top: 400px;
+    top: 460px;
    }
 
    .text1,.text2{
