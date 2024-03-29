@@ -231,7 +231,7 @@
     width: 100vw;
     font-size: 95%;
     left: 0%;
-    transform: translate(0,50px);
+    transform: translate(0,150px);
    }
 .e19_37,.e19_41{
     width: 100vw;
@@ -257,11 +257,6 @@
 
    }
 
-   .textSMove{
-    transform: translate(0,200px);
-   }
-
-  
   
 
     /*.e19_26, .e19_30, .e19_27 {
