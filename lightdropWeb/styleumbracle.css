@@ -255,6 +255,10 @@
 
    }
 
+   .textSMove{
+    transform: translate(0,50px);
+   }
+
   
   
 
