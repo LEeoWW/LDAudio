@@ -245,6 +245,7 @@
     display: inline;
     z-index: 9999;
     position: absolute;
+    transform: translate(0,10px);
    }
 
    .Titulos{
