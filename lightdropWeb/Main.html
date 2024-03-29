@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="styleumbracle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">
+    
+</head>
+<div class="header">
+    <div class="MainHeader"></div>
+    <div class="e19_27"></div><span  class="e19_28">LightDrop</span>
+</div>
+<body>
+<div class=e19_26>
+    <div class="e3_9">
+    </div>
+    <div class="fondo"></div>
+    <div class="Titulos somos"><span>¿Quiénes somos?</span></div>
+    <div class="barra"></div><span  class="text text1"> Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme
+  
+  </span>
+  
+  <img src="https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/IconoLightDrop.jpg" id="umbracle1">
+  
+  <div class="Titulos hacemos"><span>¿Qué es lo que hacemos?</span></div>
+  <span  class="text text2">Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.</span>
+  <img src="https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/Umbracle-nuevo.jpg" id="umbracle2"> 
+  <div class="fotocirculo fotomain1"></div>
+    <div class="e19_41"></div>
+  </div>
+  <div class="dropdown" style="float:left;">
+    <button class="dropbtn btnMain">Menú</button>
+    <div class="dropdown-content" style="left:0;">
+      <a href="https://leeoww.github.io/LightDrop.github.io/lightdropWeb/Umbracle.html">Umbracle </a>
+      <a href="#">Hemisferic </a>
+      <a href="#">Parque </a>
+    </div>
+  </div>
+
+  <ul class="ulMain">
+    <li><a href="#LightDrops">LightDrops</a></li>
+    <li><a href="https://www.instagram.com/light_dropps/">Instagram</a></li>
+    <li><a href="#Galeria">Galería</a></li>
+  </ul>
+
+  <button id="scrollToTopBtn">^</button>
+</div>
+</body>
+
+<script>
+    // 在移动设备上显示按钮
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        document.getElementById('scrollToTopBtn').style.display = 'block';
+    }
+
+    var scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+// 当页面滚动时，显示或隐藏按钮
+window.addEventListener('scroll', function() {
+  var scrollToTopBtn = document.getElementById('scrollToTopBtn');
+  if (window.scrollY > 100) {
+    scrollToTopBtn.style.display = 'block';
+  } else {
+    scrollToTopBtn.style.display = 'none';
+  }
+});
+
+// 点击按钮回到页面顶部
+document.getElementById('scrollToTopBtn').addEventListener('click', function() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+});
+</script>
+</html>
