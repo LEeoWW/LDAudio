@@ -255,6 +255,10 @@
 
    }
 
+   .fotomain1,.fotoumbracle1{
+    display: none;
+   }
+
   
 
     /*.e19_26, .e19_30, .e19_27 {
