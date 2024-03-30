@@ -9,6 +9,13 @@
     background-color: rgb(255, 255, 255,0.1);
 }
 
+
+.Arduino{
+    top:2000px;
+}
+
+
+
 h1{
     color:azure;
     text-align: center;
@@ -24,7 +31,7 @@ h1{
 }
 
 .somos{
-    top: 320px;
+    top: 350px;
 }
 .hacemos{
     top:1100px;
@@ -99,6 +106,20 @@ h1{
 	background-size:cover;
     
 }
+
+.NuevaHeader{
+    width:1920px;
+	height:400px;
+	position:absolute;
+	left:0px;
+	top:-17px;
+    background-position: center bottom;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/parque1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+
+}
+
 .e19_27 { 
 	background-color:rgba(106.12607851624489, 179.9886354804039, 117.94409796595573, 0.3700000047683716);
 	width:1920px;
@@ -121,12 +142,13 @@ h1{
 }
 .fondo { /*31*/
 	width:1920px;
-	height:1815px;
+	height:3015px;
 	position:absolute;
 	left:0px;
 	top:329px;
 	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/ciudadArtesCiencias1.jpg);
-	background-repeat:no-repeat;
+	background-repeat: repeat-y; /* 背景图在垂直方向上重复 */
+    background-attachment: fixed;
 	background-size:cover;
 }
 .transparent { /*32*/
@@ -170,7 +192,7 @@ h1{
 
 .text1{/*36,39*/
     left:183px;
-	top:450px;
+	top:480px;
     font-size: 30px;
     font-style: italic;
     
@@ -182,6 +204,14 @@ h1{
     font-style: italic;
 	
 }
+
+.text3{
+    left:183px;
+	top:2233px;
+    font-size: 30px;
+    font-style: italic;
+}
+
 
 .textmove{
     transform: translate(0,-100px);
@@ -223,6 +253,22 @@ h1{
 	height:582px;
 }
 
+.fotonueva1{
+    background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/parque2.jpg);
+    top: 350px;
+    width:630px;
+	height:582px;
+}
+
+.fotoarduino1{
+    background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/arduino1.jpg);
+    top: 2350px;
+    width:630px;
+	height:582px;
+
+}
+
+
 
 #umbracle1{
     display: none;
@@ -243,6 +289,14 @@ h1{
     border-radius:500px;
 }
 
+#arduino11{
+    display: none;
+    position: relative;
+    top: 2470px;
+    width: 300px;
+    height: 250px;
+    border-radius:500px; 
+}
 
 
 
@@ -278,7 +332,7 @@ h1{
     width: 100vw;
    }
 
-   .text1,.text2{
+   .text1,.text2,.text3{
     width: 100vw;
     font-size: 95%;
     left: 0%;
@@ -295,7 +349,7 @@ h1{
 
 
 
-   #umbracle1,#umbracle2{
+   #umbracle1,#umbracle2,#arduino11{
     display: inline;
     z-index: 9999;
     position: absolute;
