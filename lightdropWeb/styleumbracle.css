@@ -328,7 +328,7 @@ h1{
     width: 100vw;
     height: 70vw;
    }
-   .fondo,.e19_33,.e19_32,.barra,.MainHeader,.transparent,.HemHeader{
+   .fondo,.e19_33,.e19_32,.barra,.MainHeader,.transparent,.HemHeader,.NuevaHeader{
     width: 100vw;
    }
 
@@ -363,7 +363,7 @@ h1{
 
    }
     
-   .fotomain1,.fotoumbracle1,h1{
+   .fotomain1,.fotoumbracle1,h1,.fotonueva1,.fotoarduino1{
     display: none;
    }
 
