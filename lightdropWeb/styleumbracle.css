@@ -9,6 +9,20 @@
     background-color: rgb(255, 255, 255,0.1);
 }
 
+h1{
+    color:azure;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 80px;
+    display:block;
+}
+
+
+.TituloRS{
+    display: none;
+}
+
 .somos{
     top: 320px;
 }
@@ -45,6 +59,32 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
+
+.HemHeader{
+    width:1920px;
+	height:400px;
+	position:absolute;
+	left:0px;
+	top:-17px;
+    background-position: center bottom;
+	background-image:url( https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/hemisferic.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+   
+}
+
+.RFHeader{
+    width:1920px;
+	height:400px;
+	position:absolute;
+	left:0px;
+	top:-17px;
+    background-position: center;
+	background-image:url( https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/Casco1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
 
 
 .MainHeader{
@@ -169,6 +209,20 @@
 	height:582px;
 }
 
+.fotohem1{
+    background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/hemisferic2.jpg);
+    top: 350px;
+    width:630px;
+	height:582px;
+}
+
+.fotocasc1{
+    background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/Casco1.jpg);
+    top: 350px;
+    width:630px;
+	height:582px;
+}
+
 
 #umbracle1{
     display: none;
@@ -220,7 +274,7 @@
     width: 100vw;
     height: 70vw;
    }
-   .fondo,.e19_33,.e19_32,.barra,.MainHeader,.transparent{
+   .fondo,.e19_33,.e19_32,.barra,.MainHeader,.transparent,.HemHeader{
     width: 100vw;
    }
 
@@ -254,11 +308,14 @@
     transform: translate(0,60px);
 
    }
-
-   .fotomain1,.fotoumbracle1{
+    
+   .fotomain1,.fotoumbracle1,h1{
     display: none;
    }
 
+   .TituloRS{
+    display: inline;
+   }
   
 
     /*.e19_26, .e19_30, .e19_27 {
