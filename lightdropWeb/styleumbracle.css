@@ -371,6 +371,12 @@ h1{
     display: inline;
    }
   
+   .transMenu{
+    position: fixed !important;
+    top:auto !important;
+    bottom:260px !important;
+    left:20px !important;
+   }
 
     /*.e19_26, .e19_30, .e19_27 {
         width: 100%;
@@ -417,13 +423,13 @@ h1{
     position: absolute;
     right: 0;
     background-color: rgba(255, 255, 255, 0.3);
-    min-width: 160px;
+    min-width: 120px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
 .dropdown-content a {
     color: black;
-    padding: 28px 16px;
+    padding: 28px 12px;
     text-decoration: none;
     display: block;
     animation: fadeIn 0.5s ease;
@@ -439,7 +445,12 @@ h1{
     background-color: #64FF74;
 }
 
-
+.transMenu{
+    position: absolute;
+    top:88px;
+    left:1792px;
+    z-index: 9999999999;
+}
 
 
 
