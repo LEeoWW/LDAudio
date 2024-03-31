@@ -317,7 +317,7 @@ h1{
 @media screen and (max-width: 600px) {
 
     ul{
-	width:77vw;
+	width:77vw !important;
     }
 
 
