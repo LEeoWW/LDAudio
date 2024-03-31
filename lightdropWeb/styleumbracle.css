@@ -468,7 +468,7 @@ h1{
 
 .transMenu{
     position: absolute;
-    top:88px;
+    top:62px;
     left:1792px;
     z-index: 9999999999;
 }
@@ -487,6 +487,7 @@ ul {
     overflow: hidden;
     background-color: #333;
     left:80px;
+    width:100vw;
 }
 
 .ulMain{
