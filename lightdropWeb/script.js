@@ -64,5 +64,158 @@ document.addEventListener("DOMContentLoaded", function() {
          description1: "We are LightDrop Team, formed by students of 2nd year of Baccalaureate of the institute IES Barri del Carme.Tutor: Gracia Gil.Captain: Ziyan Wang.Members of the team: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
          title2:"¿What we do?",
          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
-     }
+     },
+
+
+
+
+
+
+
+
+     espanyolUmb: {
+          menu:"menú",
+          galeria:"galería",
+          otras:"otras",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+      valencianoUmb: {
+           menu:"menú",
+           galeria:"galeria",
+           otras:"altres",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },  
+      englishUmb: {
+           menu:"menu",
+           galeria:"gallery",
+           otras:"others",
+          description1: "We are LightDrop Team, formed by students of 2nd year of Baccalaureate of the institute IES Barri del Carme.Tutor: Gracia Gil.Captain: Ziyan Wang.Members of the team: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+
+
+
+
+
+
+
+      espanyolHem: {
+          menu:"menú",
+          galeria:"galería",
+          otras:"otras",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+      valencianoHem: {
+           menu:"menú",
+           galeria:"galeria",
+           otras:"altres",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },  
+      englishHem: {
+           menu:"menu",
+           galeria:"gallery",
+           otras:"others",
+          description1: "We are LightDrop Team, formed by students of 2nd year of Baccalaureate of the institute IES Barri del Carme.Tutor: Gracia Gil.Captain: Ziyan Wang.Members of the team: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+
+
+
+
+
+      espanyolCasco: {
+          menu:"menú",
+          galeria:"galería",
+          otras:"otras",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+      valencianoCasco: {
+           menu:"menú",
+           galeria:"galeria",
+           otras:"altres",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },  
+      englishCasco: {
+           menu:"menu",
+           galeria:"gallery",
+           otras:"others",
+          description1: "We are LightDrop Team, formed by students of 2nd year of Baccalaureate of the institute IES Barri del Carme.Tutor: Gracia Gil.Captain: Ziyan Wang.Members of the team: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+
+
+
+
+
+      espanyolOtras: {
+          menu:"menú",
+          galeria:"galería",
+          otras:"otras",
+          title1: "¿Quiénes somos?",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          title2:"¿Qué es lo que hacemos?",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+      valencianoOtras: {
+           menu:"menú",
+           galeria:"galeria",
+           otras:"altres",
+          title1: "¿Quin som?",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          title2:"¿Qué es el que fem?",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },  
+      englishOtras: {
+           menu:"menu",
+           galeria:"gallery",
+           otras:"others",
+          title1: "Who we are?",
+          description1: "We are LightDrop Team, formed by students of 2nd year of Baccalaureate of the institute IES Barri del Carme.Tutor: Gracia Gil.Captain: Ziyan Wang.Members of the team: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          title2:"¿What we do?",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+
+
+
+
+
+
+
+
+
+      espanyolGal: {
+          menu:"menú",
+          galeria:"galería",
+          otras:"otras",
+          title1: "¿Quiénes somos?",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          title2:"¿Qué es lo que hacemos?",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },
+      valencianoGal: {
+           menu:"menú",
+           galeria:"galeria",
+           otras:"altres",
+          title1: "¿Quin som?",
+          description1: "Somos Equipo LightDrop, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          title2:"¿Qué es el que fem?",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      },  
+      englishGal: {
+           menu:"menu",
+           galeria:"gallery",
+           otras:"others",
+          title1: "Who we are?",
+          description1: "We are LightDrop Team, formed by students of 2nd year of Baccalaureate of the institute IES Barri del Carme.Tutor: Gracia Gil.Captain: Ziyan Wang.Members of the team: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+          title2:"¿What we do?",
+          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+      }
+
+
  };
