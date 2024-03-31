@@ -409,8 +409,9 @@ h1{
     cursor: pointer;
     position: absolute;
     top:228px;
+    left:8px;
     z-index:9999999999;
-    left:0px:
+   
 }
 
 .dropbtn:focus {
