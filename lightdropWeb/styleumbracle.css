@@ -411,6 +411,10 @@ h1{
     left:0px:
 }
 
+.dropbtn:focus {
+    display: block;
+}
+
 .btnMain,dropdown-content{
     top:260px;
 }
