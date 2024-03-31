@@ -14,7 +14,9 @@
     top:2000px;
 }
 
-
+body{
+	margin:auto;
+}
 
 h1{
     color:azure;
@@ -374,7 +376,7 @@ h1{
    .transMenu{
     position: fixed !important;
     top:auto !important;
-    bottom:260px !important;
+    bottom:280px !important;
     left:20px !important;
    }
 
@@ -406,7 +408,7 @@ h1{
     border: none;
     cursor: pointer;
     position: absolute;
-    top:220px;
+    top:228px;
     z-index:9999999999;
     left:0px:
 }
