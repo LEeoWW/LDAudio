@@ -412,7 +412,7 @@ h1{
 }
 
 .btnMain,dropdown-content{
-    top:280px;
+    top:260px;
 }
 
 .dropdown {
@@ -436,6 +436,15 @@ h1{
     display: block;
     animation: fadeIn 0.5s ease;
 }
+
+.dropdown-content:focus {
+    display: block;
+}
+
+.dropdown-content a:focus {
+    display: block;
+}
+
 
 .dropdown-content a:hover {background-color: #f1f1f1}
 
@@ -471,7 +480,7 @@ ul {
 }
 
 .ulMain{
-    top: 280px;
+    top: 290px;
 }
 
 
