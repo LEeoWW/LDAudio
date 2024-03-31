@@ -315,8 +315,13 @@ h1{
 }
 
 @media screen and (max-width: 600px) {
-    
 
+    ul{
+	width:77vw;
+    }
+
+
+	
     .e19_27 {
         width: 100vw;
     }
