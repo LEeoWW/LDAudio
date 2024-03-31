@@ -418,7 +418,8 @@ h1{
 }
 
 .btnMain,dropdown-content{
-    top:260px;
+    top: 269px;
+    left: 8px;
 }
 
 .dropdown {
