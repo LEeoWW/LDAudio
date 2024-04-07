@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
-     // 获取菜单链接
+     
      let links = document.querySelectorAll(".dropdown-content a");
-     // 获取标题和描述元素
+     
 
 
      let menu = document.querySelector(".menu");
@@ -14,18 +14,18 @@ document.addEventListener("DOMContentLoaded", function() {
      let title2 = document.querySelector(".title2");
      let descr2 = document.querySelector(".description2");
  
-     // 为每个菜单链接添加点击事件监听器
+ 
      links.forEach(link => {
          link.addEventListener("click", () => {
-             // 删除现有的活动类
+             
              document.querySelector(".dropdown-content .active").classList.remove("active");
-             // 将点击的链接设置为活动类
+             
              link.classList.add("active");
  
-             // 获取链接的语言属性值
+            
              let language = link.getAttribute("language");
  
-             // 根据语言属性值更新标题和描述
+          
              title1.textContent = data[language].title1;
              descr1.textContent = data[language].description1;
              title2.textContent = data[language].title2;
