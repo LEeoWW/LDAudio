@@ -1,5 +1,5 @@
 .image {
-    margin-bottom: 20px; /* 调整图片和文字之间的间距 */
+    margin-bottom: 20px; 
 }
 
 .Titulos{
@@ -149,7 +149,7 @@ h1{
 	left:0px;
 	top:329px;
 	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/ciudadArtesCiencias1.jpg);
-	background-repeat: repeat-y; /* 背景图在垂直方向上重复 */
+	background-repeat: repeat-y; 
     background-attachment: fixed;
 	background-size:cover;
 }
