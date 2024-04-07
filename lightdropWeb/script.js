@@ -170,8 +170,7 @@ document.addEventListener("DOMContentLoaded", function() {
           title1: "¿Quin som?",
           description1: "Esta àrea verda compta amb dos Arduinos que complixen funcions específiques: un controla el sistema de llums, ajustant-se segons la intensitat solar per a promoure l'estalvi d'energia i la seguretat nocturna, especialment per a dones, mentres que l'altre actua com a sensor de distància per a ajudar les persones cegues a navegar per l'entorn. A més, el disseny del parc incorpora elements arquitectònics de diverses cultures i una varietat d'arbres per a millorar la qualitat de l'aire i proporcionar un entorn natural agradable.",
           title2:"¿Qué es el que fem?",
-          description2:" El pont servix com una important via de transport i està equipat amb un *Arduino que utilitza un sistema de sensors de color per a indicar els canvis en el semàfor d'una manera accessible per a conductors daltònics, assegurant una conducció més segura i sense barreres. L'arpa és una combinació de la música i l'arquitectura que funciona amb làser. 
-",
+          description2:" El pont servix com una important via de transport i està equipat amb un *Arduino que utilitza un sistema de sensors de color per a indicar els canvis en el semàfor d'una manera accessible per a conductors daltònics, assegurant una conducció més segura i sense barreres. L'arpa és una combinació de la música i l'arquitectura que funciona amb làser.",
            description3:"",
       },  
       englishOtras: {
