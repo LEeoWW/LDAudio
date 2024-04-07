@@ -45,13 +45,13 @@ body {
 
 
 .gallery img {
-    width: 500px; /* 设置图片初始宽度 */
-    height: auto; /* 让高度根据宽度自适应 */
-    transition: transform 0.3s ease; /* 添加过渡效果 */
+    width: 500px; 
+    height: auto; 
+    transition: transform 0.3s ease; 
 }
 
 .gallery img:hover {
-    transform: scale(1.5); /* 图片放大到原始尺寸的1.2倍 */
+    transform: scale(1.5); 
 }
 
 .gallery {
