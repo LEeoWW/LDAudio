@@ -19,7 +19,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 
 var scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
-// 当页面滚动时，显示或隐藏按钮
+
 window.addEventListener('scroll', function() {
 var scrollToTopBtn = document.getElementById('scrollToTopBtn');
 if (window.scrollY > 100) {
@@ -29,7 +29,7 @@ scrollToTopBtn.style.display = 'none';
 }
 });
 
-// 点击按钮回到页面顶部
+
 document.getElementById('scrollToTopBtn').addEventListener('click', function() {
 window.scrollTo({
 top: 0,
@@ -40,9 +40,9 @@ behavior: 'smooth'
 
 
 document.addEventListener("DOMContentLoaded", function() {
-    // 获取菜单链接
+
     let links = document.querySelectorAll(".dropdown-content a");
-    // 获取标题和描述元素
+ 
 
 
     let menu = document.querySelector(".menu");
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let otras = document.querySelector(".otras");
 
 
-    // 为每个菜单链接添加点击事件监听器
+    
     links.forEach(link => {
         link.addEventListener("click", () => {
            
