@@ -1,3 +1,4 @@
+
 .image {
     margin-bottom: 20px; 
 }
@@ -12,6 +13,12 @@
 
 .Arduino{
     top:2000px;
+}
+.Kalimba{
+    top:3000px;
+}
+.Banco{
+    top:4000px;
 }
 
 body{
@@ -144,7 +151,7 @@ h1{
 }
 .fondo { /*31*/
 	width:1920px;
-	height:3015px;
+	height:5000px;
 	position:absolute;
 	left:0px;
 	top:329px;
@@ -213,6 +220,18 @@ h1{
     font-size: 30px;
     font-style: italic;
 }
+.text4{
+    left:183px;
+	top:3233px;
+    font-size: 30px;
+    font-style: italic;
+}
+.text5{
+    left:183px;
+	top:4233px;
+    font-size: 30px;
+    font-style: italic;
+}
 
 
 .textmove{
@@ -269,6 +288,20 @@ h1{
 	height:582px;
 
 }
+.fotok{
+    background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/kalimba.jpg);
+    top: 3350px;
+    width:630px;
+	height:582px;
+
+}
+.fotob{
+    background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/banco.jpg);
+    top: 4350px;
+    width:630px;
+	height:582px;
+
+}
 
 
 
@@ -290,6 +323,23 @@ h1{
     height: 250px;
     border-radius:500px;
 }
+#fotoK{
+    display: none;
+    position: relative;
+    top: 3470px;
+    width: 300px;
+    height: 250px;
+    border-radius:500px;
+}
+#fotoB{
+    display: none;
+    position: relative;
+    top: 4470px;
+    width: 300px;
+    height: 250px;
+    border-radius:500px;
+}
+
 
 #arduino11{
     display: none;
@@ -312,6 +362,19 @@ h1{
 	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/Umbracle-nuevo.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
+}
+
+.puente{
+    border-radius:500px;
+	width:630px;
+	height:582px;
+	position:absolute;
+	left:949px;
+	top:1147px;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/arpa.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+    z-index: 9999999;
 }
 
 @media screen and (max-width: 600px) {
@@ -343,7 +406,7 @@ h1{
     width: 100vw;
    }
 
-   .text1,.text2,.text3{
+   .text1,.text2,.text3,.text4,.text5{
     width: 100vw;
     font-size: 95%;
     left: 0%;
@@ -360,7 +423,7 @@ h1{
 
 
 
-   #umbracle1,#umbracle2,#arduino11{
+   #umbracle1,#umbracle2,#arduino11,#fotoK,#fotoB{
     display: inline;
     z-index: 9999;
     position: absolute;
@@ -374,7 +437,7 @@ h1{
 
    }
     
-   .fotomain1,.fotoumbracle1,h1,.fotonueva1,.fotoarduino1,.fotohem1,.fotocasc1{
+   .fotomain1,.fotoumbracle1,h1,.fotonueva1,.fotoarduino1,.fotohem1,.fotocasc1,.fotob,.fotok,.puente{
     display: none;
    }
 
