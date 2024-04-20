@@ -363,6 +363,18 @@ h1{
 	background-repeat:no-repeat;
 	background-size:cover;
 }
+.proyecto{
+	border-radius:500px;
+	width:630px;
+	height:582px;
+	position:absolute;
+	left:949px;
+	top:1147px;
+	background-image:url(https://raw.githubusercontent.com/LEeoWW/LightDrop.github.io/main/fotoUpsteam/proyecto1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
 
 .puente{
     border-radius:500px;
