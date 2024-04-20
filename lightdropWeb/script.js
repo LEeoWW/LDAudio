@@ -78,21 +78,21 @@ document.addEventListener("DOMContentLoaded", function() {
           galeria:"galería",
           otras:"otras",
           description1: "L'umbracle («el umbráculo» en valenciano) es un paseo ajardinado y zona expositiva con vistas a todo el complejo de la Ciudad de las Artes y de las Ciencias, que alberga en su interior un gran aparcamiento. Presenta vegetación propia de la región mediterránea, de la Comunitat Valenciana y de países tropicales, que varía a lo largo de las estaciones del año, y donde además existe una interesante muestra de esculturas contemporáneas en el Paseo del Arte, de libre acceso. También en el Umbracle los visitantes pueden pasear mientras aprenden astronomía en el interesante 'Jardín de Astronomía",
-          description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
+          description2:"   L´Umbracle es un parque que simula un entorno tropical con palmeras, proporcionando un espacio de descanso y entretenimiento inclusivo para personas de todas las edades. Los tres Arduinos integrados en esta área desempeñan funciones específicas: el primero monitorea la calidad del aire, el segundo crea un instrumento musical basado en la kalimba, adaptado para ser accesible para personas con discapacidad visual, auditiva y de desarrollo, y el tercero gestiona un banco inteligente con una pantalla LED que ofrece información sobre el tiempo para brindar entretenimiento y orientación temporal a personas mayores.",
       },
       valencianoUmb: {
            menu:"menú",
            galeria:"galeria",
            otras:"altres",
           description1: "L'umbracle és un passeig enjardinat i zona expositiva amb vista a tot el complex de la Ciutat de les Arts i de les Ciències, que alberga en el seu interior un gran aparcament. Presenta vegetació pròpia de la regió mediterrània, de la Comunitat Valenciana i de països tropicals, que varia al llarg de les estacions de l'any, i on a més existix una interessant mostra d'escultures contemporànies en el Passeig de l'Art, de lliure accés. També en el *Umbracle els visitants poden passejar mentres aprenen astronomia en l'interessant 'Jardí d'Astronomia",
-          description2:"Forma part del conjunt de la Ciutat de les Arts i les Ciències a la ciutat de València (Espanya). Es destaca per ser una sèrie d'arcades paral·leles en forma d'umbracle cobrixen un jardí allargat i estret de palmeres i altres plantes mediterrànies. L'estructura està feta amb trencadís blanc, un estil típic dels edificis de Santiago Calatrava. El jardí es troba al sud-est de la ciutat, adossat a l'autovia del *Saler que és l'eixida de la ciutat cap a l'Albufera. El jardí comunica amb el Museu de les Ciències, el qual se situa en el llit del riu Túria, a través d'unes escales i ascensors.",
+          description2:" és un parc que simula un entorn tropical amb palmeres, proporcionant un espai de descans i entreteniment inclusiu per a persones de totes les edats. Els tres *Arduinos integrats en esta àrea exercixen funcions específiques: el primer monitora la qualitat de l'aire, el segon crea un instrument musical basat en la *kalimba, adaptat per a ser accessible per a persones amb discapacitat visual, auditiva i de desenvolupament, i el tercer gestiona un banc intel·ligent amb una pantalla LED que oferix informació sobre el temps per a brindar entreteniment i orientació temporal a persones majors.",
       },  
       englishUmb: {
            menu:"menu",
            galeria:"gallery",
            otras:"others",
           description1: "L'umbracle is a landscaped walkway and exhibition area overlooking the entire complex of the City of Arts and Sciences, which houses a large parking lot inside. It has vegetation typical of the Mediterranean region, the Valencian Community and tropical countries, which varies throughout the seasons, and where there is also an interesting display of contemporary sculptures in the Paseo del Arte (Art Walk), which is freely accessible. Also in the Umbracle, visitors can stroll around while they learn about astronomy in the interesting Garden of Astronomy.",     
-          description2:"It is part of the City of Arts and Sciences in the city of Valencia (Spain). It stands out for being a series of parallel arcades in the form of an umbraculum covering an elongated and narrow garden of palm trees and other Mediterranean plants. The structure is made of white trencadís, a style typical of Santiago Calatrava's buildings. The garden is located in the southeast of the city, attached to the Saler highway, which is the exit from the city to the Albufera. The garden communicates with the Science Museum, which is located in the Turia riverbed, through stairs and elevators.",
+          description2:"L'Umbracle is a park that simulates a tropical environment with palm trees, providing an inclusive rest and entertainment space for people of all ages. The three Arduinos integrated in this area perform specific functions: the first monitors air quality, the second creates a musical instrument based on the kalimba, adapted to be accessible for people with visual, hearing and developmental disabilities, and the third manages a smart bench with an LED display offering weather information to provide entertainment and time orientation for seniors.",
       },
 
 
@@ -106,21 +106,21 @@ document.addEventListener("DOMContentLoaded", function() {
           galeria:"galería",
           otras:"otras",
           description1: "L'Hemisfèric (en castellano, El Hemisférico) fue el primer edificio abierto al público de la Ciudad de las Artes y las Ciencias de Valencia (España) el 16 de abril de 1998. Es un edificio neofuturista diseñado por Santiago Calatrava con analogía de un ojo, que en su interior alberga una gran sala con una pantalla cóncava.",
-          description2:"Es un edificio espectacular diseñado por Santiago Calatrava, que cuenta con una cubierta ovoide de más de 100 metros de longitud, que alberga en su interior la gran esfera que constituye la sala de proyecciones.2​Está ubicado concretamente sobre un estanque de agua de 24.000 m2. La esfera es la sala de proyecciones, que tiene una capacidad de 300 personas. La altura del edificio es de 26 metros.3​.",
+          description2:"   El Hemisférico, reimaginado por el equipo, se convierte en una zona dedicada a la música, la iluminación y la sostenibilidad. Se instalan placas solares para aprovechar la energía solar y garantizar un funcionamiento más eficiente y respetuoso con el medio ambiente.",
       },
       valencianoHem: {
            menu:"menú",
            galeria:"galeria",
            otras:"altres",
           description1: "L'Hemisfèric va ser el primer edifici obert al públic de la Ciutat de les Arts i les Ciències de València (Espanya) el 16 d'abril de 1998. És un edifici *neofuturista dissenyat per Santiago Calatrava amb analogia d'un ull, que en el seu interior alberga una gran sala amb una pantalla còncava.",
-          description2:"És un edifici espectacular dissenyat per Santiago Calatrava, que compta amb una coberta ovoide de més de 100 metres de longitud, que alberga en el seu interior la gran esfera que constituïx la sala de projeccions.2​Està situat concretament sobre un estany d'aigua de 24.000 m². L'esfera és la sala de projeccions, que té una capacitat de 300 persones. L'altura de l'edifici és de 26 metres.3​",
+          description2:" L'Hemisfèric, reimaginat per l'equip, es convertix en una zona dedicada a la música, la il·luminació i la sostenibilitat. S'instal·len plaques solars per a aprofitar l'energia solar i garantir un funcionament més eficient i respectuós amb el medi ambient.",
       },  
       englishHem: {
            menu:"menu",
            galeria:"gallery",
            otras:"others",
           description1: "L'Hemisfèric (in Spanish, El Hemisférico) was the first building opened to the public in the City of Arts and Sciences of Valencia (Spain) on April 16, 1998. It is a neo-futuristic building designed by Santiago Calatrava with the analogy of an eye, which inside houses a large room with a concave screen.",
-          description2:"It is a spectacular building designed by Santiago Calatrava, which has an ovoid roof of more than 100 meters long, which houses inside it the large sphere that constitutes the projection room.2 It is located on a 24,000 m2 water pond. The sphere is the projection room, which has a capacity of 300 people. The height of the building is 26 meters.3",
+          description2:"The Hemisferico, reimagined by the team, becomes an area dedicated to music, lighting and sustainability. Solar panels are installed to harness solar energy and ensure a more efficient and environmentally friendly operation.",
       },
 
 
@@ -139,14 +139,16 @@ document.addEventListener("DOMContentLoaded", function() {
            galeria:"galeria",
            otras:"altres",
           description1: "El Palau de les Arts Reina Sofia és el teatre de l'òpera d'estil neofuturista de València (Espanya), i seu de l'Orquestra de la Comunitat Valenciana. És obra de Santiago Calatrava i forma part del complex arquitectònic de la Ciutat de les Arts i les Ciències. Va ser inaugurat el 8 d'octubre de 2005. La primera òpera es va interpretar el 25 d'octubre de 2006, triant-se per a l'ocasió *Fidelio, de Beethoven.",
-          description2:"Disposa de plataformes en volada a diferents altures, amb passejos i vegetació, a les quals s'accedix mitjançant ascensors panoràmics i escales situades a l'interior de les carcasses metàl·liques que hi ha a banda i banda de l'edifici. El contrast entre l'opac de les carcasses de xapa d'acer i la transparència dels vastos espais envidrats produïx sensacions canviants.",
+          description2:" La Reina Sofia s'adapta per a albergar l'oficina de l'ONCE, conservant el seu disseny original mentres es reutilitza per a brindar servicis i suport a la comunitat, especialment a persones amb discapacitat visual.",
       },  
       englishCasco: {
            menu:"menu",
            galeria:"gallery",
            otras:"others",
           description1: "The Palau de les Arts Reina Sofía is the neo-futurist style opera house in Valencia (Spain), and home of the Orquesta de la Comunidad Valenciana. It was designed by Santiago Calatrava and is part of the architectural complex of the City of Arts and Sciences. It was inaugurated on October 8, 2005. The first opera was performed on October 25, 2006, choosing Beethoven's Fidelio for the occasion.",
-          description2:"It has cantilevered platforms at different heights, with walkways and vegetation, accessed by panoramic elevators and staircases located inside the metal casings on either side of the building. The contrast between the opacity of the sheet steel casings and the transparency of the vast glazed spaces produces changing sensations.",
+          description2:"  The Reina Sofia is adapted to house the ONCE office, preserving its original design while reusing it to provide services and support to the community, especially to the visually impaired.
+
+",
       },
 
 
