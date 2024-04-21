@@ -44,7 +44,7 @@ let data = {
         galeria:"galería",
         otras:"nuevas",
         title1: "¿Quiénes somos?",
-        description1: "Somos Equipo Lightdrops, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Mienmbros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
+        description1: "Somos Equipo Lightdrops, formado por estudiantes de 2º de Bachillerato del instituto IES Barri del Carme.Tutora:Gracia Gil.Capitana:Ziyan Wang.Miembros del equipo: Melanie Bravo, Darío García, Mae Hefty, Soraya Navarro, Zixuan Wang.",
         title2:"¿Qué es lo que hacemos?",
         description2:"Estamos haciendo una recreación de la ciudad de las artes y ciencias situada en Valencia,además incluyendo diseños e instalaciones más inclusivas,modernas y avanzadas.",
     },
