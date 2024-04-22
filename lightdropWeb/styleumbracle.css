@@ -471,7 +471,7 @@ h1{
     left: 0%;
 
    }
-.e19_37,.e19_41,.hem2,.casc2,. proyecto{
+.e19_37,.e19_41,.hem2,.casc2,.proyecto,.hem2,.casc2{
     width: 100vw;
     display: none;
 }
@@ -550,7 +550,7 @@ h1{
 }
 
 .btnMain,dropdown-content{
-    top: 269px;
+    top: 290px;
     left: 8px;
 }
 
@@ -576,14 +576,13 @@ h1{
     animation: fadeIn 0.5s ease;
 }
 
-.dropdown-content:focus {
-    display: block;
-}
+ .dropdown-checkbox {
+        display: none;
+    }
 
-.dropdown-content a:focus {
-    display: block;
-}
-
+    .dropdown-checkbox:checked + .dropdown-content {
+        display: block;
+    }
 
 .dropdown-content a:hover {background-color: #f1f1f1}
 
