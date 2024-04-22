@@ -1,4 +1,8 @@
 
+window.onload = function() {
+        document.title = "Lightdrops";
+    };
+
 document.addEventListener("DOMContentLoaded", function() {
      
     let links = document.querySelectorAll(".dropdown-content a");
